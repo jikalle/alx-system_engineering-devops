@@ -1,1 +1,1 @@
-The folder contains script for other task
+Create the readme for the subfolder
