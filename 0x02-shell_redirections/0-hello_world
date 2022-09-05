@@ -1,3 +1,3 @@
 #!/bin/bash
-ls "Hello, world" > hello_world.txt
+echo "Hello, world"
 
